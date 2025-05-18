@@ -1,4 +1,5 @@
 P-Chart for Proportion of Defects – Quality Control Project
+
 This project visualizes and monitors process stability using a P-Chart, which tracks the proportion of defective units across variable sample sizes.
 
 Key Features:
